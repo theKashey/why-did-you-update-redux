@@ -1,0 +1,28 @@
+{
+  "name": "why-did-you-update-redux",
+  "version": "1.0.0",
+  "description": "Patch Redux to discover unnecessary re-renders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"tests are not here\""
+  },
+  "keywords": [
+    "redux",
+    "optimization",
+    "reselect",
+    "memoization"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theKashey/why-did-you-update-redux.git"
+  },
+  "bugs": {
+    "url": "https://github.com/theKashey/why-did-you-update-redux/issues"
+  },
+  "homepage": "https://github.com/theKashey/why-did-you-update-redux#readme",
+  "author": "Anton Korzunov (thekashey@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "beautiful-react-redux": "^1.3.1"
+  }
+}
