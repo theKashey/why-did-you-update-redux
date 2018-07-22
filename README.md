@@ -1,6 +1,5 @@
 # Why did you update
 
-[![Build Status](https://travis-ci.org/theKashey/why-did-you-update-redux.svg?branch=master)](https://travis-ci.org/theKashey/why-did-you-update-redux)
 [![npm version](https://badge.fury.io/js/why-did-you-update-redux.svg)](https://badge.fury.io/js/why-did-you-update-redux)
 
 Why did you update is a function that monkey patches Redux and notifies you in the console when **potentially** unnecessary re-renders occur
