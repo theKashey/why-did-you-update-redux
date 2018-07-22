@@ -22,6 +22,9 @@ What's all, and it will remove itself from a production bundle.
 This is basically `import 'beautiful-react-redux/check'`, see 
 [beautiful-react-redux](https://github.com/theKashey/beautiful-react-redux) for more information.
 
+### Example?
+[https://codesandbox.io/s/o4mrzr865](https://codesandbox.io/s/o4mrzr865)
+
 ### License
 
 MIT
