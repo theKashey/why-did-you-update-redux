@@ -23,6 +23,6 @@
   "author": "Anton Korzunov (thekashey@gmail.com)",
   "license": "MIT",
   "dependencies": {
-    "beautiful-react-redux": "^2.0.0"
+    "beautiful-react-redux": "^2.0.1"
   }
 }
