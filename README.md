@@ -21,6 +21,8 @@ What's all, and it will remove itself from a production bundle.
 This is basically `import 'beautiful-react-redux/check'`, see 
 [beautiful-react-redux](https://github.com/theKashey/beautiful-react-redux) for more information.
 
+`why-did-you-update-redux` is based on memoize-state library - [How I wrote the world’s fastest React memoization library](https://itnext.io/how-i-wrote-the-worlds-fastest-react-memoization-library-535f89fc4a17)
+
 ### Example?
 [https://codesandbox.io/s/o4mrzr865](https://codesandbox.io/s/o4mrzr865)
 
