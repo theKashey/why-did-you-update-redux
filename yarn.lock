@@ -2,12 +2,12 @@
 # yarn lockfile v1
 
 
-beautiful-react-redux@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/beautiful-react-redux/-/beautiful-react-redux-2.0.1.tgz#07841549682be77c60f7800329ce1eec6d7a7342"
+beautiful-react-redux@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/beautiful-react-redux/-/beautiful-react-redux-2.1.0.tgz#bc2c9b26ba0e816ad1456da8fcb298ef517974cb"
   dependencies:
     function-double "^1.0.4"
-    memoize-state "^2.0.0"
+    memoize-state "^2.0.1"
     shallowequal "^1.0.2"
 
 function-double@^1.0.4:
@@ -16,9 +16,9 @@ function-double@^1.0.4:
   dependencies:
     util-arity "^1.1.0"
 
-memoize-state@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/memoize-state/-/memoize-state-2.0.0.tgz#4489596728f8f06c40dcdc180c6d54ad8783006c"
+memoize-state@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/memoize-state/-/memoize-state-2.0.1.tgz#fe9f2562680d2a9b0192e39f9a85ff6229cce24f"
   dependencies:
     function-double "^1.0.4"
     proxyequal "^2.0.0"
