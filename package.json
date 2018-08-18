@@ -1,6 +1,6 @@
 {
   "name": "why-did-you-update-redux",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Patch Redux to discover unnecessary re-renders",
   "main": "index.js",
   "scripts": {
