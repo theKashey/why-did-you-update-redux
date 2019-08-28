@@ -1,5 +1,7 @@
 # Why did you update
 
+> Compatible with any Redux version!
+
 [![npm version](https://badge.fury.io/js/why-did-you-update-redux.svg)](https://badge.fury.io/js/why-did-you-update-redux)
 
 Why did you update is a function that monkey patches Redux and notifies you in the console when **potentially** unnecessary re-renders occur
@@ -7,14 +9,20 @@ due to a unnecessary update from mapStateToProps.
 
 ![](https://i.imgur.com/73vmgG1r.png)
 
+> Then - something is wrong with __minDate__, and __maxDate__. With "proper" memoization applied - they should be equal to the previous values, but something went wrong.
+
 ### Setup
-This library is available on npm, install it with: `npm install --save why-did-you-update-redux` or `yarn add why-did-you-update-redux`.
+This library is available on npm, install it with: 
+`npm install --save why-did-you-update-redux` 
+or 
+`yarn add why-did-you-update-redux`.
 
 ### Usage
 ```js
-import 'why-did-you-update-redux';
+import 'why-did-you-update-redux'; 
+// import before redux!
 ```
-What's all, and it will remove itself from a production bundle.
+What's all, and it will remove itself from a production bundle, so you don't have to.
 
 ### How it works
 
