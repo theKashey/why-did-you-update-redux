@@ -4,12 +4,13 @@
 
 [![npm version](https://badge.fury.io/js/why-did-you-update-redux.svg)](https://badge.fury.io/js/why-did-you-update-redux)
 
-Why did you update is a function that monkey patches Redux and notifies you in the console when **potentially** unnecessary re-renders occur
-due to a unnecessary update from mapStateToProps.
+Why did you update is a function that monkeypatches Redux and notifies you in the console when **potentially** unnecessary re-renders occur
+driven by unnecessary updates from `mapStateToProps`, which means - your selectors, or memoization is not as good, as it should.
 
 ![](https://i.imgur.com/73vmgG1r.png)
 
-> Then - something is wrong with __minDate__, and __maxDate__. With "proper" memoization applied - they should be equal to the previous values, but something went wrong.
+Then - something is wrong with __minDate__, and __maxDate__. With "proper" memoization applied - they should be equal to the previous values, but something went wrong.
+Could you please double check your code? (Just click on the function to jump straight into definition)
 
 ### Setup
 This library is available on npm, install it with: 
